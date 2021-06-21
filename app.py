@@ -20,7 +20,7 @@ def home():
 
 
 # Search API
-@app.route("/search", methods=["POST"])
+@app.route("/search", methods=["POST", "GET"])
 def search():
     if request.method == 'POST':
         pincode = request.form["pincode"]
