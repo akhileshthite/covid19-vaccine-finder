@@ -96,14 +96,13 @@
       // Your web app's Firebase configuration
       // For Firebase JS SDK v7.20.0 and later, measurementId is optional
       var firebaseConfig = {
-        apiKey: "AIzaSyAB4PLOYfexoZVErPOJFrrTRHhEPXw1eE8",
-        authDomain: "covid-19-vaccine-finder.firebaseapp.com",
-        databaseURL: "https://covid-19-vaccine-finder-default-rtdb.firebaseio.com",
-        projectId: "covid-19-vaccine-finder",
-        storageBucket: "covid-19-vaccine-finder.appspot.com",
-        messagingSenderId: "43235977646",
-        appId: "1:43235977646:web:ef4ac858c400b5c59dc03f",
-        measurementId: "G-FRT02HNHYN"
+        apiKey: process.env.API_KEY,
+        authDomain: process.env.AUTH_DOMAIN,
+        projectId: process.env.PROJECT_ID,
+        storageBucket: process.env.STORAGE_BUCKET,
+        messagingSenderId: process.env.MESSAGING_SENDER_ID,
+        appId: process.env.API_ID,
+        measurementId: process.env.MEASUREMENT_ID
       };
       // Initialize Firebase
       firebase.initializeApp(firebaseConfig);
