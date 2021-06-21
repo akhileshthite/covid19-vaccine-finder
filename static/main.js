@@ -1,4 +1,5 @@
-// Realtime Database
+// IN DEVELOPMENT //
+/* Realtime Database
 const pin = document.getElementById("pincode");
 const date = document.getElementById("date");
 const btnSubmit = document.getElementById("submit");
@@ -15,6 +16,7 @@ btnSubmit.addEventListener('click', (e) => {
   });
   window.open('https://covid-19-vaccine-finder.herokuapp.com/search', '_self');
 });
+*/
 
 // Onclick functions
 function github(){
