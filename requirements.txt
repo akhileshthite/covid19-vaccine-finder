@@ -3,8 +3,6 @@ Click==7.0
 gunicorn==19.9.0
 itsdangerous==1.1.0
 Jinja2==2.10.1
-dotenv==10.0.0
-firebase==8.6.8
 MarkupSafe==1.1.1
 Werkzeug==0.15.6
 json2table==1.1.5
