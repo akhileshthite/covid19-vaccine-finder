@@ -32,25 +32,6 @@ def search():
         return render_template('result.html', output=json2table.convert(response, build_direction=build_direction,
                                                                         table_attributes=table_attributes))
 
-
-# Login page
-@app.route('/login')
-def login():
-    return render_template('login.html')
-
-
-# Sign Up page
-@app.route('/signup')
-def signup():
-    return render_template('signup.html')
-
-
-# Loggedin page
-@app.route('/loggedin')
-def loggedin():
-    return render_template('loggedin.html')
-
-
 # Feedback page
 @app.route('/feedback')
 def feedback():
