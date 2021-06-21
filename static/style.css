@@ -68,8 +68,6 @@ footer {
 
 footer {
   display: flex;
-  left:0px;
-  margin: auto;
   justify-content: center;
   align-items: center;
   color: #ddd;
