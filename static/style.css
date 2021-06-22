@@ -68,13 +68,17 @@ footer {
 
 footer {
   display: flex;
+  position: absolute;
+  left:0px;
+  bottom:0px;
+  height: 40px;
+  overflow: hidden;
   justify-content: center;
   align-items: center;
   color: #ddd;
   font-family: Arial, Helvetica, sans-serif;
-  position: initial;
-  bottom: 0px;
   width: 100vw;
+  line-height: 15px;
   background-color: rgba(0, 0, 0, 0.75);
 }
 .underln:hover {
