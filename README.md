@@ -31,7 +31,7 @@ git clone https://github.com/AkhileshThite/COVID-19-VaccineFinder.git
 
 2. Open the folder by running below command -
 ```
-cd 
+cd COVID-19-VaccineFinder
 ```
 
 3.  Install all the requirements by running below command -
