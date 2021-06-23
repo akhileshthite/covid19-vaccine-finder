@@ -24,17 +24,27 @@ Link: http://ec2-3-108-58-222.ap-south-1.compute.amazonaws.com:8080
 | ------------- |
 
 ## Running the project
-1.  Install all the requirements by running below command -
+1. Clone the repository  by running below command -
+```
+git clone https://github.com/AkhileshThite/COVID-19-VaccineFinder.git
+```
+
+2. Open the folder by running below command -
+```
+cd 
+```
+
+3.  Install all the requirements by running below command -
 ```
 pip install -r requirements.txt
 ```
 This will install all the required libraries to run this project.
 
-2. Run app.py using below command to start Flask API
+4. Run app.py using below command to start Flask API
 ```
 python app.py
 ```
-3. Navigate to URL "http://0.0.0.0:8080/"
+5. Navigate to URL "http://0.0.0.0:8080/"
 
 • Now, You should be able to view the homepage.
 
