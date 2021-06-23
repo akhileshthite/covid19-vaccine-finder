@@ -52,7 +52,7 @@ python app.py
 
 
 ## Contributors
-I highly encourage you to raise issues & PRs for bugs & new enhancements.
+I highly encourage you to raise issues & PRs for bugs & new features.
 
 | [Commands](docs/git-commands.md) |
 | ------------- |
