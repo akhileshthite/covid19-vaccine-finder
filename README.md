@@ -51,7 +51,8 @@ python app.py
 • Enter PIN & DATE. Now, you should be able to see all the information from COWIN API.
 
 
-## Contribute
+## Contributors
+I highly encourage you to raise issues & PRs for new enhancements.
 
-| [VS Code Users](docs/VScode_users.md) |
+| [Contributors Guide](docs/VScode_users.md) |
 | ------------- |
