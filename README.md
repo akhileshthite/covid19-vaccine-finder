@@ -1,8 +1,8 @@
 # COVID-19 Vaccine Finder
 
 Link: http://ec2-3-108-58-222.ap-south-1.compute.amazonaws.com:8080
-
-<img style="text-align: center;" src="https://github.com/AkhileshThite/COVID-19-VaccineFinder/blob/main/static/images/ipad.png" width="400" height="400">ddssgsdgddsdsad fbwdfbwfhbd fdwfbdhf dwfbwbhdfhwdf dwbfjhwbdf wdbfhjwhbf dwfbjwdbfwf wbfjhbhbfw dfjwhbfhwbw fbjwhbfehjwb</img>
+<img align="center" src="https://github.com/AkhileshThite/COVID-19-VaccineFinder/blob/main/static/images/ipad.png" width="400" height="400"></img>
+API is blocking the request.
 
 
 ## Technical Details
@@ -18,11 +18,6 @@ Link: http://ec2-3-108-58-222.ap-south-1.compute.amazonaws.com:8080
 **Database:**
 ```Firebase```
 
-
-
-
-| [VS Code Users](docs/VScode_users.md) |
-| ------------- |
 
 ## Running the project
 1. Clone the repository  by running below command -
@@ -50,3 +45,9 @@ python app.py
 • Now, You should be able to view the homepage.
 
 • Enter PIN & DATE. Now, you should be able to see all the information from COWIN API.
+
+
+## Contribute
+
+| [VS Code Users](docs/VScode_users.md) |
+| ------------- |
