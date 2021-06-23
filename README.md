@@ -6,7 +6,8 @@ COVID-19 Vaccine Finder website to check the available slots for COVID-19 Vaccin
 
 
 
-API is blocking the request outside of India.
+coWIN API is blocking the request outside of India (giving 403 forbidden error, before AWS EC2 instance I deployed this web app on GCP and Heroku but both gave me same 403 forbidden error.
+It's working perfectly fine on AWS EC2 instance Asouth
 
 
 ## Technical Details
