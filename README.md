@@ -61,4 +61,4 @@ I highly encourage you to raise issues & PRs for new enhancements.
 | ------------- |
 
 ## License ⚖️
-[MIT license]() 
+[MIT license](https://github.com/AkhileshThite/COVID-19-VaccineFinder/blob/main/LICENSE) 
