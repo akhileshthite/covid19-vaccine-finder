@@ -15,8 +15,8 @@ It's working perfectly fine on AWS EC2 instance Asia-Pacific-south-1 (Indian ser
 **Frameworks:** 
 ```Flask```
 
-**Platform:** 
-```AWS EC2 instance, Heroku```
+**Platforms:** 
+```AWS EC2 instance (working), GCP, Heroku```
 
 **Database:**
 ```Firebase```
