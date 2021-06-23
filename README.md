@@ -6,7 +6,6 @@ Link: http://ec2-3-108-58-222.ap-south-1.compute.amazonaws.com:8080
 
 ## Technical Details
 **Languages:**
-
 ```Python3, HTML5, CSS3, JavaScript```
 
 **Frameworks:** 
