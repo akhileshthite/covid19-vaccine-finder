@@ -59,3 +59,6 @@ I highly encourage you to raise issues & PRs for new enhancements.
 
 | [Commands](docs/git-commands.md) |
 | ------------- |
+
+## License ⚖️
+[MIT license]() 
