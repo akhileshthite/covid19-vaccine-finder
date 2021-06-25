@@ -1,3 +1,5 @@
+![GitHub issues](https://img.shields.io/github/issues/AkhileshThite/COVID-19-VaccineFinder?style=flat-square) ![GitHub pull requests](https://img.shields.io/github/issues-pr/AkhileshThite/COVID-19-VaccineFinder?style=flat-square)
+
 # COVID-19 Vaccine Finder
 
 Link: http://ec2-3-108-58-222.ap-south-1.compute.amazonaws.com:8080
