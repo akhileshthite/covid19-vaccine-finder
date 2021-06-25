@@ -1,6 +1,6 @@
-![GitHub issues](https://img.shields.io/github/issues/AkhileshThite/COVID-19-VaccineFinder?style=flat-square) ![GitHub pull requests](https://img.shields.io/github/issues-pr/AkhileshThite/COVID-19-VaccineFinder?style=flat-square)
-
 # COVID-19 Vaccine Finder
+
+![GitHub issues](https://img.shields.io/github/issues/AkhileshThite/COVID-19-VaccineFinder?style=flat-square) ![GitHub pull requests](https://img.shields.io/github/issues-pr/AkhileshThite/COVID-19-VaccineFinder?style=flat-square)
 
 Link: http://ec2-3-108-58-222.ap-south-1.compute.amazonaws.com:8080
 <img align="center" src="https://github.com/AkhileshThite/COVID-19-VaccineFinder/blob/main/static/images/ipad.png" width="400" height="400"></img>
@@ -57,8 +57,8 @@ python app.py
 ## Contributors
 I highly encourage you to raise issues & PRs for bugs & new features.
 
-| [Commands](docs/git-commands.md) |
-| ------------- |
+| [Commands](docs/git-commands.md) | [Code of Conduct](docs/code_of_conduct.md)
+| ------------- | ------------- |
 
 
 ## License ⚖️
