@@ -1,8 +1,8 @@
 ---
-title: Issue Title
+title: Bug
 about: Fix bugs to help us improve the website.
-name: Bug
-label: Bug Report
+name: 
+label: Bug
 Assignee: ''
 
 ---
