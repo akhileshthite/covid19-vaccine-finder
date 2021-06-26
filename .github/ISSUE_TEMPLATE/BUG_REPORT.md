@@ -1,6 +1,6 @@
 ---
-title: Issue 
-about: Fix bugs to help us improve the website.
+title: Issue Title
+about: Create a bug-report to help us address errors in the repo.
 name: Bug
 label: Bug
 Assignee: ''
