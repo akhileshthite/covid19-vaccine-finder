@@ -1,7 +1,7 @@
 ---
-title: Bug
+title: Issue 
 about: Fix bugs to help us improve the website.
-name: 
+name: Bug
 label: Bug
 Assignee: ''
 
