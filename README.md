@@ -1,7 +1,10 @@
-# COVID-19 Vaccine Finder
+# COVID-19 Vaccine Finder Website
 
-Link: http://ec2-3-108-58-222.ap-south-1.compute.amazonaws.com:8080
-<img align="center" src="https://github.com/AkhileshThite/COVID-19-VaccineFinder/blob/main/static/images/ipad.png" width="400" height="400"></img>
+Website Link: http://ec2-3-108-58-222.ap-south-1.compute.amazonaws.com:8080
+
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/AkhileshThite/COVID-19-VaccineFinder) ![GitHub issues](https://img.shields.io/github/issues/AkhileshThite/COVID-19-VaccineFinder) ![GitHub pull requests](https://img.shields.io/github/issues-pr/AkhileshThite/COVID-19-VaccineFinder) ![Merged Pull Requests](https://img.shields.io/github/issues-search/AkhileshThite/COVID-19-VaccineFinder?label=merged%20PRs&query=is%3Apr+is%3Aclosed+is%3Amerged&color=purple)
+
+<img align="center" src="https://github.com/AkhileshThite/COVID-19-VaccineFinder/blob/main/static/images/ipad.png" width="400" height="400"></img> <img align="center" src="https://github.com/AkhileshThite/COVID-19-VaccineFinder/blob/main/static/images/ipad2.png" width="400" height="400"></img>
 
 -> COVID-19 Vaccine Finder website to check the available slots for COVID-19 Vaccination Centers from [coWIN API](https://apisetu.gov.in/public/marketplace/api/cowin) in India. With this website, you'll quickly be able to register for vaccines by checking the most updated information from coWIN API like center with time slots, age limit & availability of both doses.<br>
 -> **Problem:-** coWIN API is blocking the request outside of India (403 forbidden error), before AWS EC2 instance I deployed this web app on GCP and Heroku but both gave me same 403 forbidden error as these servers are outside of India. If it's not deployed then no one can use it.<br>
@@ -55,8 +58,8 @@ python app.py
 ## Contributors
 I highly encourage you to raise issues & PRs for bugs & new features.
 
-| [Commands](docs/git-commands.md) |
-| ------------- |
+| [Commands](docs/git-commands.md) | [Code of Conduct](docs/code_of_conduct.md)
+| ------------- | ------------- |
 
 
 ## License ⚖️
