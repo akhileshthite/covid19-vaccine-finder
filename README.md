@@ -12,7 +12,7 @@ Website Link: http://ec2-3-108-58-222.ap-south-1.compute.amazonaws.com:8080
 Now anyone can get all the information from this website and register for vaccines faster without running any script. 
 
 
-##➔ Technical Details
+## ➔ Technical Details
 **Languages:**
 ```Python3, HTML5, CSS3, JavaScript```
 
@@ -26,7 +26,7 @@ Now anyone can get all the information from this website and register for vaccin
 ```Firebase```
 
 
-##➔ Running the project
+## ➔ Running the project
 1. Clone the repository  by running below command -
 ```
 git clone https://github.com/AkhileshThite/COVID-19-VaccineFinder.git
@@ -55,12 +55,12 @@ python app.py
 • Enter PIN & DATE. Now, you should be able to see all the information from COWIN API.
 
 
-##➔ Contributors
+## ➔ Contributors
 I highly encourage you to raise issues & PRs for bugs & new features.
 
 | [Commands](docs/git-commands.md) | [Code of Conduct](docs/code_of_conduct.md)
 | ------------- | ------------- |
 
 
-##➔ License ⚖️
+## ➔ License ⚖️
 [MIT license](https://github.com/AkhileshThite/COVID-19-VaccineFinder/blob/main/LICENSE) 
