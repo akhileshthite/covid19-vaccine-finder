@@ -1,7 +1,7 @@
 ---
 title: Issue Title
-about: Create a report to help us improve.
-name: YourName
+about: Fix bugs to help us improve the website.
+name: Bug
 label: Bug Report
 Assignee: ''
 
