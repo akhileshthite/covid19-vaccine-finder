@@ -12,7 +12,7 @@ Website Link: http://ec2-3-108-58-222.ap-south-1.compute.amazonaws.com:8080
 Now anyone can get all the information from this website and register for vaccines faster without running any script. 
 
 
-## Technical Details
+## ➔ Technical Details
 **Languages:**
 ```Python3, HTML5, CSS3, JavaScript```
 
