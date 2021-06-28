@@ -1,6 +1,7 @@
 body {
   margin: 0;
   height: 100vh;
+  overflow-x: hidden;
   font-family: Arial, Helvetica, sans-serif;
   background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
   background-size: 400% 400%;
@@ -36,7 +37,8 @@ table {
   border: 1px solid #ddd;
   width: 100%;
 }
-td, th {
+td,
+th {
   border: 1px solid #dddddd;
   text-align: left;
   padding: 8px;
@@ -67,8 +69,9 @@ footer {
   color: #ddd;
   font-family: Arial, Helvetica, sans-serif;
   position: absolute;
-  bottom: 0px;
   width: 100vw;
+  padding-top: 4px;
+  margin-top: 20px;
   background-color: rgba(0, 0, 0, 0.75);
 }
 .underln:hover {
@@ -78,12 +81,12 @@ footer {
 
 @keyframes gradient {
   0% {
-      background-position: 0% 50%;
+    background-position: 0% 50%;
   }
   50% {
-      background-position: 100% 50%;
+    background-position: 100% 50%;
   }
   100% {
-      background-position: 0% 50%;
+    background-position: 0% 50%;
   }
 }
