@@ -4,11 +4,10 @@
 # Comment to be posted to on first time issues
 
 newIssueWelcomeComment: >
-  Hello there! 👋🏻 Welcome to the COVID-19-VaccineFinder 🚀
+  Hello there! 👋🏻 Welcome to the COVID-19 Vaccine Finder 🚀
   
-  Thank you and congrats 🎉 for opening your very first issue in this project. 
-  Please adhere to our [Code of Conduct](https://github.com/AkhileshThite/COVID-19-VaccineFinder/blob/main/docs/code_of_conduct.md). 👍🏻
-  Feel free to get in touch with me through LinkedIn. Hope to see you there!😄
+  Thank you and congrats 🎉 for opening your very first issue in this project. A maintainer will get back to you shortly!
+  Please adhere to our [Code of Conduct](https://github.com/AkhileshThite/COVID-19-VaccineFinder/blob/main/docs/code_of_conduct.md).
   
 # Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
 # Comment to be posted to on PRs from first time contributors in your repository
@@ -16,9 +15,8 @@ newIssueWelcomeComment: >
 newPRWelcomeComment: >
   Hello there! 👋 Welcome to the project!
   
-  Thank you and congrats 🎉 for opening your first pull request. 
-  Please adhere to our [Code of Conduct](https://github.com/AkhileshThite/COVID-19-VaccineFinder/blob/main/docs/code_of_conduct.md). 👍🏻
-  Feel free to get in touch with me through LinkedIn . Hope to see you there!😄
+  Thank you and congrats 🎉 for opening your first pull request. A maintainer will get back to you shortly!
+  Please adhere to our [Code of Conduct](https://github.com/AkhileshThite/COVID-19-VaccineFinder/blob/main/docs/code_of_conduct.md).
   
 # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
 # Comment to be posted to on pull requests merged by a first time user
