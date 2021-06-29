@@ -47,6 +47,7 @@ This will install all the required libraries to run this project.
 ```
 python app.py
 ```
+Note:- You should use python version 3 or later. Otherwise it'll give syntax error.
 
 5. Navigate to URL "http://0.0.0.0:8080/"
 
