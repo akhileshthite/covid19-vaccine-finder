@@ -55,10 +55,10 @@ python app.py
 • Enter PIN & DATE. Now, you should be able to see all the information from COWIN API.
 
 
-## ➔ Contributors
+## ➔ Contribute
 I highly encourage you to raise issues & PRs for bugs & new features.
 
-| [Commands](docs/git-commands.md) | [Code of Conduct](docs/code_of_conduct.md)
+| [Git Commands](docs/git-commands.md) | [Code of Conduct](docs/code_of_conduct.md)
 | ------------- | ------------- |
 
 
