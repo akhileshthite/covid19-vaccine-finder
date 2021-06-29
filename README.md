@@ -68,5 +68,5 @@ I highly encourage you to raise issues & PRs for bugs & new features.
 ## ➔ Current Contributors
 
 <a href="https://github.com/akhileshthite/COVID-19-VaccineFinder/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=akhileshthite/COVID-19-VaccineFinder" width="40" height="40" />
+  <img src="https://contrib.rocks/image?repo=akhileshthite/COVID-19-VaccineFinder" width="150" height="150" />
 </a>
