@@ -56,7 +56,7 @@ Note:- you should use python version 3 or later.
 • Enter PIN & DATE. Now, you should be able to see all the information from COWIN API.
 
 
-## ➔ Contribute
+## ➔ Contributing
 I highly encourage you to raise issues & PRs for bugs & new features.
 
 | [Git Commands](docs/git-commands.md) | [Code of Conduct](docs/code_of_conduct.md)
@@ -66,7 +66,7 @@ I highly encourage you to raise issues & PRs for bugs & new features.
 ## ➔ License ⚖️
 [MIT license](https://github.com/AkhileshThite/COVID-19-VaccineFinder/blob/main/LICENSE) 
 
-## ➔ Current Contributors
+## ➔ Contributors
 
 <a href="https://github.com/akhileshthite/COVID-19-VaccineFinder/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=akhileshthite/COVID-19-VaccineFinder" />
