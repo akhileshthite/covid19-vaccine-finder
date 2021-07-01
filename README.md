@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/issues-pr/AkhileshThite/COVID-19-VaccineFinder" alt="GitHub pull requests" />
   <img src="https://img.shields.io/github/issues-search/AkhileshThite/COVID-19-VaccineFinder?label=merged%20PRs&query=is%3Apr+is%3Aclosed+is%3Amerged&color=purple" alt="Merged Pull Requests" />
 </div>
-<br>
+
 
 <div align="center">
 Website link: http://ec2-3-108-58-222.ap-south-1.compute.amazonaws.com:8080
