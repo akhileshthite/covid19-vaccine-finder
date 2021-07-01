@@ -1,7 +1,6 @@
-<h1 align="center">COVID-19 Vaccine Finder</h1>
-
 <img align="center" src="https://github.com/AkhileshThite/COVID-19-VaccineFinder/blob/main/static/images/ipad.png" width="400" height="400"></img> <img align="center" src="https://github.com/AkhileshThite/COVID-19-VaccineFinder/blob/main/static/images/ipad2.png" width="400" height="400"></img>
-
+<h1 align="center">COVID-19 Vaccine Finder</h1>
+<br>
 <div align="center">
   <img src="https://img.shields.io/github/v/release/AkhileshThite/COVID-19-VaccineFinder" alt="GitHub release" />
   <img src="https://img.shields.io/github/issues/AkhileshThite/COVID-19-VaccineFinder" alt="GitHub issues" />
