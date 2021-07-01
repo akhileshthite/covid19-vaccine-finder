@@ -12,7 +12,7 @@
 <div align="center">
 Website link: http://ec2-3-108-58-222.ap-south-1.compute.amazonaws.com:8080
 </div>
-<br>
+
 ➔ COVID-19 Vaccine Finder website to check the available slots for COVID-19 Vaccination Centers from [coWIN API](https://apisetu.gov.in/public/marketplace/api/cowin) in India. With this website, you'll quickly be able to register for vaccines by checking the most updated information from coWIN API like center, fee, availability of both dose 1 and dose 2, age limit, vaccine type, and time slots.<br>
 ➔ **Problem:-** coWIN API is blocking the request outside of India (403 forbidden error), before AWS EC2 instance I deployed this web app on GCP and Heroku but both gave me same 403 forbidden error as these servers are outside of India. If it's not deployed then no one can use it.<br>
 ➔ **Solved:-** It's working perfectly fine on AWS EC2 instance ap-south-1 (Indian server). 
