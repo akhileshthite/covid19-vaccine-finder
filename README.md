@@ -1,11 +1,11 @@
 <img align="center" src="https://github.com/AkhileshThite/COVID-19-VaccineFinder/blob/main/static/images/ipad.png" width="400" height="400"></img> <img align="center" src="https://github.com/AkhileshThite/COVID-19-VaccineFinder/blob/main/static/images/ipad2.png" width="400" height="400"></img>
 
-<p align="center">
+
 # COVID-19 Vaccine Finder
 
 Website link: http://ec2-3-108-58-222.ap-south-1.compute.amazonaws.com:8080
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/AkhileshThite/COVID-19-VaccineFinder) ![GitHub issues](https://img.shields.io/github/issues/AkhileshThite/COVID-19-VaccineFinder) ![GitHub pull requests](https://img.shields.io/github/issues-pr/AkhileshThite/COVID-19-VaccineFinder) ![Merged Pull Requests](https://img.shields.io/github/issues-search/AkhileshThite/COVID-19-VaccineFinder?label=merged%20PRs&query=is%3Apr+is%3Aclosed+is%3Amerged&color=purple)
+<p align="center">![GitHub release (latest by date)](https://img.shields.io/github/v/release/AkhileshThite/COVID-19-VaccineFinder) ![GitHub issues](https://img.shields.io/github/issues/AkhileshThite/COVID-19-VaccineFinder) ![GitHub pull requests](https://img.shields.io/github/issues-pr/AkhileshThite/COVID-19-VaccineFinder) ![Merged Pull Requests](https://img.shields.io/github/issues-search/AkhileshThite/COVID-19-VaccineFinder?label=merged%20PRs&query=is%3Apr+is%3Aclosed+is%3Amerged&color=purple)
 </p>
 
 ➔ COVID-19 Vaccine Finder website to check the available slots for COVID-19 Vaccination Centers from [coWIN API](https://apisetu.gov.in/public/marketplace/api/cowin) in India. With this website, you'll quickly be able to register for vaccines by checking the most updated information from coWIN API like center, fee, availability of both dose 1 and dose 2, age limit, vaccine type, and time slots.<br>
