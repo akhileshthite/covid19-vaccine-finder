@@ -1,5 +1,5 @@
 <h1 align="center">COVID-19 Vaccine Finder</h1>
-<br>
+
 <img align="center" src="https://github.com/AkhileshThite/COVID-19-VaccineFinder/blob/main/static/images/ipad.png" width="400" height="400"></img> <img align="center" src="https://github.com/AkhileshThite/COVID-19-VaccineFinder/blob/main/static/images/ipad2.png" width="400" height="400"></img>
 
 <div align="center">
