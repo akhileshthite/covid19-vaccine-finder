@@ -1,0 +1,25 @@
+{
+  "name": "covid-19-vaccinefinder",
+  "version": "1.0.0",
+  "description": "COVID-19 Vaccine Finder website to check the available slots for COVID-19 Vaccination Centers from coWIN API in India. With this website, you'll quickly be able to register for vaccines by checking the most updated information from coWIN API like center, fee, availability of both dose 1 and dose 2, age limit, vaccine type, and time slots.",
+  "main": "main.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkhileshThite/COVID-19-VaccineFinder.git"
+  },
+  "author": "Akhilesh Thite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkhileshThite/COVID-19-VaccineFinder/issues"
+  },
+  "homepage": "https://github.com/AkhileshThite/COVID-19-VaccineFinder#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
