@@ -58,7 +58,7 @@ python app.py
 ```
 Note:- you should use python version 3 or later.
 
-5. Navigate to URL "http://0.0.0.0:8080/"
+5. Navigate to URL "http://0.0.0.0:8080/".
 
 • Now, You should be able to view the homepage.
 
