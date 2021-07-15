@@ -27,7 +27,7 @@ Now anyone can get all the information from this website and register for vaccin
 ```Flask```
 
 **Platforms:** 
-```AWS EC2 instance (working), GCP, Heroku```
+```AWS EC2 instance, GCP, Heroku```
 
 **Database:**
 ```Firebase```
