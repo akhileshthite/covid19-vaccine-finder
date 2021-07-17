@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-Website link: www.covid19vaccinefinder.codes
+Website link: covid19vaccinefinder.codes
 </div>
 <br/>
 
