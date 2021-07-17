@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-Website link: http://ec2-3-108-58-222.ap-south-1.compute.amazonaws.com:8080
+Website link: www.covid19vaccinefinder.codes
 </div>
 <br/>
 
