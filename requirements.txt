@@ -12,4 +12,3 @@ Markdown==3.3.4
 requests==2.25.1
 virtualenv==20.4.6
 Werkzeug==0.15.6
-dotenv==10.0.0
