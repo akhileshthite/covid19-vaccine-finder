@@ -15,7 +15,6 @@ btnSubmit.addEventListener('click', (e)=> {
 });
 
 // Onclick functions
-
 function github(){
   window.open('https://github.com/AkhileshThite')
 }

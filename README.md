@@ -11,11 +11,13 @@
 <br>
 
 <div align="center">
-Website link: https://covid-19-vaccine-finder.herokuapp.com
+Website link: http://ec2-3-108-58-222.ap-south-1.compute.amazonaws.com:8080
 </div>
 <br/>
 
 ➔ COVID-19 Vaccine Finder website to check the available slots for COVID-19 Vaccination Centers from [coWIN API](https://apisetu.gov.in/public/marketplace/api/cowin) in India. With this website, you'll quickly be able to register for vaccines by checking the most updated information from coWIN API like center, fee, availability of both dose 1 and dose 2, age limit, vaccine type, and time slots.<br>
+➔ **Problem:-** coWIN API is blocking the request outside of India (403 forbidden error), before AWS EC2 instance I deployed this web app on GCP and Heroku but both gave me same 403 forbidden error as these servers are outside of India. If it's not deployed then no one can use it.<br>
+➔ **Solved:-** It's working perfectly fine on AWS EC2 instance ap-south-1 (Indian server). 
 Now anyone can get all the information from this website and register for vaccines faster without running any script. 
 
 
@@ -27,7 +29,7 @@ Now anyone can get all the information from this website and register for vaccin
 ```Flask```
 
 **Platforms:** 
-```Heroku, AWS EC2 instance, GCP```
+```AWS EC2 instance (working), GCP, Heroku```
 
 **Database:**
 ```Firebase```
@@ -56,7 +58,7 @@ python app.py
 ```
 Note:- you should use python version 3 or later.
 
-5. Navigate to URL "http://127.0.0.1:5000/".
+5. Navigate to URL "http://0.0.0.0:8080/"
 
 • Now, You should be able to view the homepage.
 

@@ -49,10 +49,10 @@ tr:nth-child(even) {
   margin: auto;
   left: 50%;
   text-align: left;
+  background-color: rgba(192,192,192,0.3);
   color: white;
   font-size: small;
   box-sizing: border-box;
-  background-color: transparent;
   padding: 4px;
   letter-spacing: 1px;
   width: 275px;

@@ -4,10 +4,11 @@ Created on June 18 2021
 """
 
 # Importing necessary libraries.
-from flask import Flask, render_template, request
+from flask import Flask, json, render_template, request, flash
 import requests
 # To dispay json {{output}} in tables.
 import json2table
+
 
 # Defining Flask app.
 app = Flask(__name__)
@@ -32,6 +33,12 @@ def search():
         return render_template('result.html', output=json2table.convert(response, build_direction=build_direction,
                                                                         table_attributes=table_attributes))
 
+
+# Breathing page
+@app.route('/breathing')
+def breathing():
+    return render_template('breathing.html')
+
 # Feedback page
 @app.route('/feedback')
 def feedback():
@@ -39,4 +46,4 @@ def feedback():
 
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=8080)
+    app.run(debug=True)
