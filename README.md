@@ -27,7 +27,7 @@ Now anyone can get all the information from this website and register for vaccin
 ```Flask```
 
 **Platforms:** 
-```AWS EC2 instance (working), GCP, Heroku```
+```Heroku, AWS EC2 instance, GCP```
 
 **Database:**
 ```Firebase```
@@ -56,7 +56,7 @@ python app.py
 ```
 Note:- you should use python version 3 or later.
 
-5. Navigate to URL "http://0.0.0.0:8080/"
+5. Navigate to URL "http://localhost:5000/"
 
 • Now, You should be able to view the homepage.
 
