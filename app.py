@@ -4,7 +4,7 @@ Created on June 18 2021
 """
 
 # Importing necessary libraries.
-from flask import Flask, json, render_template, request, flash, redirect, url_for
+from flask import Flask, json, render_template, request, flash
 import requests
 # To dispay json {{output}} in tables.
 import json2table
@@ -12,7 +12,6 @@ import json2table
 
 # Defining Flask app.
 app = Flask(__name__)
-app.secret_key = "abc"
 
 # Main page
 @app.route('/')
