@@ -13,7 +13,6 @@ import json2table
 # Defining Flask app.
 app = Flask(__name__)
 
-
 # Main page
 @app.route('/')
 def home():
@@ -30,7 +29,11 @@ def search():
         response = requests.get(url).json()
         build_direction = "TOP_TO_BOTTOM"
         table_attributes = {"style": "width:50%"}
-        return render_template('result.html', output=json2table.convert(response, build_direction=build_direction,
+        if response["sessions"] == []:
+            error = "Sessions are currently unavailable, please try again after some time."
+            return render_template('result.html', output=error)
+        else:
+            return render_template('result.html', output=json2table.convert(response, build_direction=build_direction,
                                                                         table_attributes=table_attributes))
 
 
