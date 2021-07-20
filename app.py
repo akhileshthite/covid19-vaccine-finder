@@ -4,11 +4,10 @@ Created on June 18 2021
 """
 
 # Importing necessary libraries.
-from flask import Flask, json, render_template, request, flash
+from flask import Flask, json, render_template, request
 import requests
 # To dispay json {{output}} in tables.
 import json2table
-
 
 # Defining Flask app.
 app = Flask(__name__)
@@ -17,7 +16,6 @@ app = Flask(__name__)
 @app.route('/')
 def home():
     return render_template('index.html')
-
 
 # Search API
 @app.route("/search", methods=["POST", "GET"])
@@ -35,7 +33,6 @@ def search():
         else:
             return render_template('result.html', output=json2table.convert(response, build_direction=build_direction,
                                                                         table_attributes=table_attributes))
-
 
 # Breathing page
 @app.route('/breathing')
