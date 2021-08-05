@@ -19,7 +19,7 @@ Website link: http://covid19vaccinefinder.codes
 Now anyone can get all the information from this website and register for vaccines faster without running any script. 
 
 
-## ➔ Technical Details
+### ➔ Technical Details
 **Languages:**
 ```Python3, HTML5, CSS3, JavaScript```
 
@@ -33,7 +33,7 @@ Now anyone can get all the information from this website and register for vaccin
 ```Firebase```
 
 
-## ➔ Running the project
+### ➔ Running the project
 1. Clone the repository  by running below command -
 ```
 git clone https://github.com/AkhileshThite/COVID-19-VaccineFinder.git
@@ -63,17 +63,17 @@ Note:- you should use python version 3 or later.
 • Enter PIN & DATE. Now, you should be able to see all the information from COWIN API.
 
 
-## ➔ Contributing
+### ➔ Contributing
 I highly encourage you to raise issues & PRs for bugs & new features.
 
 | [Git Commands](docs/git-commands.md) | [Code of Conduct](docs/code_of_conduct.md)
 | ------------- | ------------- |
 
 
-## ➔ License ⚖️
+### ➔ License ⚖️
 [MIT license](https://github.com/AkhileshThite/COVID-19-VaccineFinder/blob/main/LICENSE) 
 
-## ➔ Contributors
+### ➔ Contributors
 
 <a href="https://github.com/AkhileshThite/COVID-19-VaccineFinder/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=AkhileshThite/COVID-19-VaccineFinder" />
