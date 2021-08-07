@@ -3,7 +3,7 @@
 <h1 align="center">COVID-19 Vaccine Finder</h1>
 
 <div align="center">
-  <img src="https://img.shields.io/github/v/release/AkhileshThite/COVID-19-VaccineFinder" alt="GitHub release" />
+  <img src="https://img.shields.io/github/v/release/AkhileshThite/COVID-19-VaccineFinder?color=1FC71F" alt="GitHub release" />
   <img src="https://img.shields.io/github/repo-size/AkhileshThite/COVID-19-VaccineFinder" alt="platform">
   <!-- Open issues & PRs
   <img src="https://img.shields.io/github/issues/AkhileshThite/COVID-19-VaccineFinder" alt="GitHub issues" />
