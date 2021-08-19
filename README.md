@@ -37,9 +37,11 @@ Now anyone can get all the information from this website and register for vaccin
 
 
 ### ➔ Project setup
+`Fork` the repository, this will make a copy of this project in your account.
+
 1. Clone the repository  by running below command -
 ```
-git clone https://github.com/AkhileshThite/COVID-19-VaccineFinder.git
+git clone https://github.com/<Username>/COVID-19-VaccineFinder.git
 ```
 
 2. Open the folder by running below command -
