@@ -33,7 +33,7 @@ git merge YourBranchName
 ```
 8. Get ready to push from your local machine.
 ```
-git remote add <message> https://github.com/AkhileshThite/COVID-19-VaccineFinder.git
+git remote add <message> https://<GitHubToken>@github.com/<username>/<RepositoryName>.git
 ```
 9. Push everything on your forked repository.
 ```
