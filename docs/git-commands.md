@@ -1,4 +1,4 @@
-First follow the steps of running the project given in the README.md
+First follow the steps of project setup given in the README.md
 
 ## STEPS to contribute:
 1. Initialize git repository.
