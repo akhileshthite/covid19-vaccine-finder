@@ -59,7 +59,7 @@ This will install all the required libraries to run this project.
 ```
 python app.py
 ```
-Note:- you should use python version 3 or later.
+Note:- You must be on python version 3 or later.
 
 5. Navigate to URL "http://localhost:5000/"
 
