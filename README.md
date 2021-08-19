@@ -36,7 +36,7 @@ Now anyone can get all the information from this website and register for vaccin
 ```Firebase```
 
 
-### ➔ Running the project
+### ➔ Project setup
 1. Clone the repository  by running below command -
 ```
 git clone https://github.com/AkhileshThite/COVID-19-VaccineFinder.git
