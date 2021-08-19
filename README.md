@@ -18,7 +18,7 @@ Website link: http://covid19vaccinefinder.codes
 </div>
 <br/>
 
-➔ COVID-19 Vaccine Finder website to check the available slots for COVID-19 Vaccination Centers from [coWIN API](https://apisetu.gov.in/public/marketplace/api/cowin) in India. With this website, you'll quickly be able to register for vaccines by checking the most updated information from coWIN API like center, fee, availability of both dose 1 and dose 2, age limit, vaccine type, and time slots.<br>
+➔ With this website, you'll quickly be able to register for vaccines by checking the most updated information from [coWIN API](https://apisetu.gov.in/public/marketplace/api/cowin) like center, fee, availability of both dose 1 and dose 2, age limit, vaccine type, and time slots.<br>
 Now anyone can get all the information from this website and register for vaccines faster without running any script. 
 
 
