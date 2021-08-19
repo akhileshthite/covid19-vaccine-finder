@@ -13,7 +13,7 @@ git branch YourBranchName
 ```
 git checkout YourBranchName
 ```
-**Make all the changes (bug fixes, enhancements on your branch**
+**Make all the changes (bug fixes, enhancements on your branch)**
 
 4. Add all the changes once you are done.
 ```
