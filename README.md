@@ -14,7 +14,7 @@
 <br>
 
 <div align="center">
-Website link: http://covid19vaccinefinder.codes
+Website link: https://covid-19-vaccine-finder.herokuapp.com
 </div>
 <br/>
 
