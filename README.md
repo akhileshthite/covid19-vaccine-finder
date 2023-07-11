@@ -1,3 +1,5 @@
+> 📣 **This project was used by thousands during the COVID-19 pandemic to find available vaccine slots. It is now in a read-only state, but please feel free to fork it and utilize it with other APIs.**
+
 <img align="center" src="https://github.com/AkhileshThite/COVID-19-VaccineFinder/blob/main/static/images/ipad.png" width="400" height="400"></img> <img align="center" src="https://github.com/AkhileshThite/COVID-19-VaccineFinder/blob/main/static/images/ipad2.png" width="400" height="400"></img>
 
 <h1 align="center">COVID-19 Vaccine Finder</h1>
